@@ -4,6 +4,7 @@
 - 🤔 I’m looking for help with [montoyo/mcef](https://github.com/montoyo/mcef)
 - 📫 How to reach me: K1tty#2077 at the Discord.
 - ⚡ Fun fact: In JavaScript, equal is not always equal.
+- 💬 Ask me about music, how do I do, movies.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsK1tty)](https://github.com/anuraghazra/github-readme-stats)
 
