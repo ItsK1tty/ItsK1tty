@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on the K1wichat - a self-written chat platform.
-- 🤔 I’m looking for help with (montoyo/mcef)[https://github.com/montoyo/mcef]
+- 🤔 I’m looking for help with [montoyo/mcef](https://github.com/montoyo/mcef)
 - 📫 How to reach me: K1tty#2077 at the Discord.
 - ⚡ Fun fact: I like pancakes.
 
