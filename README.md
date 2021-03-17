@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there, I'm K1tty!
 
 - 🔭 I’m currently working on the K1wichat - a self-written chat platform.
 - 🤔 I’m looking for help with [montoyo/mcef](https://github.com/montoyo/mcef)
